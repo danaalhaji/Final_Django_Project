@@ -33,15 +33,15 @@ He can also get prizes randomly if he is one of the best customers, he can make 
 
 The manager can organize the restaurant through the ADMIN dashboard in trems of :
 
-* Employees TAB: He can Add/Remove/Edit employee and see the old Employees after deleted them
+* Employees TAB: Admin can Add/Remove/Edit employee and see the old Employees after deleted them
 by soft delete, also he can know the working hours and salary per Hour/Day/Month,
 * Special Customer TAB: he can see the special customers in the restaurant
 and choose winners from them and accept or reject the customer orders from the 
 Orders page, also he can accept or reject event that customer make from the user page.
-* Jobs Tab:(Future Work) the manager can offer a job to the customers
-then see the data they filled out in the user dashboard. and contact with them via email.
 * Event Tab: Manage events by Accept/reject/delete/edit events
-## Menu
+* Reviews TAB : allow users to evaluate the resturant and it can be seen by the manager
+* Menu TAB : we provided the menu and the prices for the customers and the ability to see our best dishes and drinks.
+* ## Menu
 
 ![menu.png](https://github.com/Marah-Ashayer/DjangoProject/blob/main/newVersionPYTHONproject-master/Img/menu.png?raw=true)
 
