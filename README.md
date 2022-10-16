@@ -1,16 +1,5 @@
 
-# **VINTAGE Restaurant** 
-## Made by Izzaldeen Malakh, Dana Alhaji, and Marah Ashayer
-## Supervised By : Amin Eid
-## Abstraction
-*The purpose of this project is to unit the management and the customers and make easier communication and understanding, we made our website very interactive with the customer, provide marketing ideas to gain more loyalty from the customer.
-For the management side we provided all in one. managing employees, menu, adding and checking their loyal customer and help them to give them gifts, also we allowed the management to control the events created by the customers, menu , and see reviews from different user.Also for we added some extras for special customers such as gifts, ability to make orders plan events and much more.
-Expand
-message.txt
-3 KB
-Attachment file type: archive
-Img.zip
-3.72 MB
+
 ﻿
 # **VINTAGE Restaurant** 
 ## Made by Izzaldeen Malakh, Dana Alhaji, and Marah Ashayer
