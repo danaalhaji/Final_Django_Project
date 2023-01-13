@@ -15,7 +15,7 @@ we used many techniques to make our website interacts with the users; such as js
 
 ![home1.png](https://raw.githubusercontent.com/Marah-Ashayer/Final_Django_Project/master/Img/home1.png)
 
-![home2.png](https://github.com/Marah-Ashayer/DjangoProject/blob/main/newVersionPYTHONproject-master/Img/home2.png?raw=true)
+![home2.png](https://raw.githubusercontent.com/Marah-Ashayer/Final_Django_Project/master/Img/home2.png)
 
 The user has the ability to book a reservation,and send a review to the manager about meals and resturent in general.
 He can also get prizes randomly if he is one of the best customers, he can make online orders, also he can find a job through tab in the website.
